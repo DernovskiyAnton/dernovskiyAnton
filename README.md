@@ -34,13 +34,17 @@ REST API для управления задачами по методологи�
 
 ### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DernovskiyAnton&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DernovskiyAnton&layout=compact&theme=radical)
+
 
 
 ### 📫 Контакты
 
 - 📧 Email: your.email@example.com
 - 💼 LinkedIn: [Ваш профиль](https://linkedin.com)
-- 📱 Telegram: @yourtelegram
+- 📱 Telegram: @dernovski
 
 ---
 
