@@ -54,8 +54,8 @@ REST API для управления задачами по методологи�
 
 ### 📫 Контакты
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Ваш профиль](https://linkedin.com)
+- 📧 Email: dernovski@gmail.com
+- 💼 LinkedIn: [Dernovskiy Anton](https://www.linkedin.com/in/anton-dernovskiy/)
 - 📱 Telegram: @dernovski
 
 ---
